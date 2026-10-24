@@ -1,12 +1,12 @@
-# 🎮 Mobi Army 2.45
+# 🎮 Mobi Army 245
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-IPA-000000?logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-PC-0078D4?logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2.45-blue)
+![Version](https://img.shields.io/badge/Version-245-blue)
 
-**Mobi Army 2.45** là dự án game được phát triển và tùy chỉnh trên nền tảng **Unity**, hướng đến khả năng build và trải nghiệm trên nhiều nền tảng khác nhau.
+**Mobi Army 245** là dự án game được phát triển và tùy chỉnh trên nền tảng **Unity**, hướng đến khả năng build và trải nghiệm trên nhiều nền tảng khác nhau.
 
 ## ✨ Tính năng
 
@@ -54,6 +54,6 @@ Giấy phép sử dụng và phân phối dự án cần được xác định t
 ---
 
 <p align="center">
-  <strong>Mobi Army 2.45</strong><br>
+  <strong>Mobi Army 245</strong><br>
   <i>One project. Multiple platforms. Powered by Unity.</i>
 </p>
