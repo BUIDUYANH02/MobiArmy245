@@ -52,13 +52,31 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
 
 ## 📸 Hình ảnh trong game
 
-<p align="center">
-  <img src="images/login.png" alt="Form Login" width="800">
-  <img src="images/settings.png" alt="Panel Settings" width="800">
-  <img src="images/select-char.png" alt="Chọn Nhân vật Mới" width="800">
-  <img src="images/upgrade-point.png" alt="Nâng cấp điểm mới xem được cả chỉ số" width="800">
-  <img src="images/search.png" alt="Vào nhanh chỉ cần nhập phòng và khu vực" width="800">
-  <img src="images/fight.png" alt="Hình ảnh chiến trường trong trận" width="800">
+ <p align="center">
+  <figure>
+    <img src="images/login.png" alt="Form Login" width="800">
+    <figcaption>🔐 Đăng nhập</figcaption>
+  </figure>
+  <figure>
+    <img src="images/settings.png" alt="Panel Settings" width="800">
+    <figcaption>⚙️ Cài đặt</figcaption>
+  </figure>
+  <figure>
+    <img src="images/select-char.png" alt="Chọn Nhân vật Mới" width="800">
+    <figcaption>👤 Chọn nhân vật</figcaption>
+  </figure>
+  <figure>
+    <img src="images/upgrade-point.png" alt="Nâng cấp điểm mới xem được cả chỉ số" width="800">
+    <figcaption>📊 Nâng cấp điểm – Xem đầy đủ chỉ số</figcaption>
+  </figure>
+  <figure>
+    <img src="images/search.png" alt="Vào nhanh chỉ cần nhập phòng và khu vực" width="800">
+    <figcaption>🔎 Vào nhanh – Nhập phòng và khu vực</figcaption>
+  </figure>
+  <figure>
+    <img src="images/fight.png" alt="Hình ảnh chiến trường trong trận" width="800">
+    <figcaption>⚔️ Chiến trường trong trận</figcaption>
+  </figure>
 </p>
 
 ## 👨‍💻 Tác giả
