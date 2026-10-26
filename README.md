@@ -17,6 +17,14 @@
 - 📱 Hỗ trợ nhiều nền tảng.
 - 🎮 Trải nghiệm game trên thiết bị di động và máy tính.
 
+🔥 PB Update
+
+👤 Fake tên nhân vật – Tùy chỉnh tên hiển thị.
+⚡ Speed 2000% – Bổ sung mức tốc độ mới.
+🚀 Cải thiện tốc độ game – Tối ưu hiệu năng trò chơi.
+🎋 Auto đổi bánh chưng, bánh tét – Tự động đổi vật phẩm.
+🔧 Sửa lỗi Auto đập ngọc – Khắc phục lỗi không thể tắt tính năng.
+
 ## 📦 Nền tảng hỗ trợ
 
 | Nền tảng | Định dạng | README |
