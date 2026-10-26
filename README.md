@@ -50,7 +50,7 @@ Các bản phát hành được xây dựng từ cùng một project Unity. Kh�
 
 Các bản phát hành sẽ được cập nhật tại mục [Releases](../../releases) của repository khi có phiên bản được công bố.
 
-## 🖼️ Một Số Hình Ảnh PB MobiArmy245
+## 📸 Hình ảnh trong game
 
 <p align="center">
   <img src="images/login.png" alt="Form Login" width="800">
