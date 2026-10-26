@@ -14,8 +14,6 @@
 - 💎 Auto đập ngọc.
 - ⚡ Cộng chỉ số nhanh.
 - 🚀 Tùy chỉnh tốc độ.
-- 📱 Hỗ trợ nhiều nền tảng.
-- 🎮 Trải nghiệm game trên thiết bị di động và máy tính.
 
 ## 🔥 PB Update
 
@@ -24,6 +22,13 @@
 - 🚀 **Cải thiện tốc độ game** – Tối ưu hiệu năng trò chơi.
 - 🎋 **Auto đổi bánh chưng, bánh tét** – Tự động đổi vật phẩm.
 - 🔧 **Sửa lỗi Auto đập ngọc** – Khắc phục lỗi không thể tắt tính năng.
+
+## 🔒 Cam kết bảo mật
+
+- 🛡️ **Không Keylog** – Không ghi lại phím bấm để thu thập thông tin trái phép.
+- 🔐 **Không đánh cắp tài khoản** – Không thu thập trái phép mật khẩu hoặc thông tin đăng nhập.
+- 🚫 **Không mã độc** – Không chủ động tích hợp mã độc gây hại cho thiết bị.
+- 🔍 **Minh bạch** – Công khai các tính năng và hành vi thu thập dữ liệu (nếu có).
 
 ## 📦 Nền tảng hỗ trợ
 
