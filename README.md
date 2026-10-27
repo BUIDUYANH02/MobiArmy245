@@ -54,31 +54,31 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
 <p align="center">
   <figure>
     <figcaption>🔐 Đăng nhập</figcaption>
-    <img src="images/login.png" alt="Form Login" width="800">
+    <img src="images/login.png" alt="Form Login" width="100">
   </figure>
   <figure>
     <figcaption>⚙️ Cài đặt</figcaption>
-    <img src="images/settings.png" alt="Panel Settings" width="800">
+    <img src="images/settings.png" alt="Panel Settings" width="100">
   </figure>
   <figure>
     <figcaption>👤 Chọn nhân vật</figcaption>
-    <img src="images/select-char.png" alt="Chọn Nhân vật Mới" width="800">
+    <img src="images/select-char.png" alt="Chọn Nhân vật Mới" width="100">
   </figure>
   <figure>
     <figcaption>📊 Nâng cấp điểm – Xem đầy đủ chỉ số</figcaption>
-    <img src="images/upgrade-point.png" alt="Nâng cấp điểm mới xem được cả chỉ số" width="800">
+    <img src="images/upgrade-point.png" alt="Nâng cấp điểm mới xem được cả chỉ số" width="100">
   </figure>
   <figure>
     <figcaption>🔎 Vào nhanh – Nhập phòng và khu vực</figcaption>
-    <img src="images/search.png" alt="Vào nhanh chỉ cần nhập phòng và khu vực" width="800">
+    <img src="images/search.png" alt="Vào nhanh chỉ cần nhập phòng và khu vực" width="100">
   </figure>
   <figure>
     <figcaption>⚔️ Chiến trường trong trận</figcaption>
-    <img src="images/fight.png" alt="Hình ảnh chiến trường trong trận" width="800">
+    <img src="images/fight.png" alt="Hình ảnh chiến trường trong trận" width="100">
   </figure>
   <figure>
     <figcaption>⚔️ Tự động Pem đúng như cái tên đến hết trận</figcaption>
-    <img src="images/fight-auto-pem.png" alt="Hình ảnh chiến trường trong trận 2" width="800">
+    <img src="images/fight-auto-pem.png" alt="Hình ảnh chiến trường trong trận 2" width="100">
   </figure>
 </p>
 
