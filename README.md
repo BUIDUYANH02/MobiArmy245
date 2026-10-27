@@ -53,32 +53,38 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
 
 <table>
   <tr>
-    <td align="center">
-      <b>🔐 Đăng nhập</b><br>
-      <img src="images/login.png" alt="Form Login" width="200">
+    <td align="center" colspan="2" rowspan="2">
+      <b>🔐 Đăng nhập</b><br><br>
+      <img src="images/login.png" alt="Form Login" width="400">
     </td>
     <td align="center">
       <b>⚙️ Cài đặt</b><br>
-      <img src="images/settings.png" alt="Panel Settings" width="200">
+      <img src="images/settings.png" alt="Cài đặt" width="150">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <b>👤 Chọn nhân vật</b><br>
-      <img src="images/select-char.png" alt="Chọn nhân vật" width="200">
+      <img src="images/select-char.png" alt="Chọn nhân vật" width="150">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <b>📊 Nâng cấp điểm</b><br>
-      <img src="images/upgrade-point.png" alt="Nâng cấp điểm" width="200">
+      <img src="images/upgrade-point.png" alt="Nâng cấp điểm" width="150">
     </td>
     <td align="center">
       <b>🔎 Vào nhanh</b><br>
-      <img src="images/search.png" alt="Vào nhanh" width="200">
+      <img src="images/search.png" alt="Vào nhanh" width="150">
     </td>
     <td align="center">
       <b>⚔️ Chiến trường</b><br>
-      <img src="images/fight.png" alt="Chiến trường" width="200">
+      <img src="images/fight.png" alt="Chiến trường" width="150">
     </td>
-    <td align="center">
-      <b>⚔️ Auto Pem</b><br>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <b>⚔️ Tự động Pem đến hết trận</b><br>
       <img src="images/fight-auto-pem.png" alt="Tự động Pem đến hết trận" width="200">
     </td>
   </tr>
