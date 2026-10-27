@@ -13,15 +13,14 @@
 - 🎯 Kẻ góc.
 - 💎 Auto đập ngọc.
 - ⚡ Cộng chỉ số nhanh.
-- 🚀 Tùy chỉnh tốc độ.
+- 🚀 Tùy chỉnh tốc độ 100->2000%.
+- 👤 Fake tên nhân vật – Tùy chỉnh tên hiển thị.
+- 🚀 Cải thiện tốc độ game – Tối ưu hiệu năng trò chơi.
+- 🎋 Auto đổi bánh chưng, bánh tét – Tự động đổi vật phẩm.
 
 ## 🔥 PB Update
-
-- 👤 **Fake tên nhân vật** – Tùy chỉnh tên hiển thị.
-- ⚡ **Speed 2000%** – Bổ sung mức tốc độ mới.
-- 🚀 **Cải thiện tốc độ game** – Tối ưu hiệu năng trò chơi.
-- 🎋 **Auto đổi bánh chưng, bánh tét** – Tự động đổi vật phẩm.
-- 🔧 **Sửa lỗi Auto đập ngọc** – Khắc phục lỗi không thể tắt tính năng.
+- 🔧 **Auto Tự Pem** – Tự động bắn khi đến lượt (kèm Pow khi có).
+- 🔧 **Chỉnh Góc** – Chỉnh góc Pem nhằm fix lỗi tốc độ game quá nhanh
 
 ## 🔒 Cam kết bảo mật
 
