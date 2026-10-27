@@ -78,7 +78,7 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
     </td>
     <td align="center">
       <img src="images/fight.png" alt="Chiến trường" width="266"><br>
-      <b>⚔️ Chiến trường</b>
+      <b>⚔️ Chỉnh lực và Góc bắn dễ dàng</b>
     </td>
     <td align="center">
       <img src="images/fight-auto-pem.png" alt="Tự động Pem" width="266"><br>
