@@ -51,36 +51,38 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
 
 ## 📸 Hình ảnh trong game
 
-<p align="center">
-  <figure>
-    <figcaption>🔐 Đăng nhập</figcaption>
-    <img src="images/login.png" alt="Form Login" width="100">
-  </figure>
-  <figure>
-    <figcaption>⚙️ Cài đặt</figcaption>
-    <img src="images/settings.png" alt="Panel Settings" width="100">
-  </figure>
-  <figure>
-    <figcaption>👤 Chọn nhân vật</figcaption>
-    <img src="images/select-char.png" alt="Chọn Nhân vật Mới" width="100">
-  </figure>
-  <figure>
-    <figcaption>📊 Nâng cấp điểm – Xem đầy đủ chỉ số</figcaption>
-    <img src="images/upgrade-point.png" alt="Nâng cấp điểm mới xem được cả chỉ số" width="100">
-  </figure>
-  <figure>
-    <figcaption>🔎 Vào nhanh – Nhập phòng và khu vực</figcaption>
-    <img src="images/search.png" alt="Vào nhanh chỉ cần nhập phòng và khu vực" width="100">
-  </figure>
-  <figure>
-    <figcaption>⚔️ Chiến trường trong trận</figcaption>
-    <img src="images/fight.png" alt="Hình ảnh chiến trường trong trận" width="100">
-  </figure>
-  <figure>
-    <figcaption>⚔️ Tự động Pem đúng như cái tên đến hết trận</figcaption>
-    <img src="images/fight-auto-pem.png" alt="Hình ảnh chiến trường trong trận 2" width="100">
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>🔐 Đăng nhập</b><br>
+      <img src="images/login.png" alt="Form Login" width="100">
+    </td>
+    <td align="center">
+      <b>⚙️ Cài đặt</b><br>
+      <img src="images/settings.png" alt="Panel Settings" width="100">
+    </td>
+    <td align="center">
+      <b>👤 Chọn nhân vật</b><br>
+      <img src="images/select-char.png" alt="Chọn nhân vật" width="100">
+    </td>
+    <td align="center">
+      <b>📊 Nâng cấp điểm</b><br>
+      <img src="images/upgrade-point.png" alt="Nâng cấp điểm" width="100">
+    </td>
+    <td align="center">
+      <b>🔎 Vào nhanh</b><br>
+      <img src="images/search.png" alt="Vào nhanh" width="100">
+    </td>
+    <td align="center">
+      <b>⚔️ Chiến trường</b><br>
+      <img src="images/fight.png" alt="Chiến trường" width="100">
+    </td>
+    <td align="center">
+      <b>⚔️ Auto Pem</b><br>
+      <img src="images/fight-auto-pem.png" alt="Tự động Pem đến hết trận" width="100">
+    </td>
+  </tr>
+</table>
 
 ## 👨‍💻 Tác giả
 
