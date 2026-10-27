@@ -53,37 +53,38 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
 
 ## 📸 Hình ảnh trong game
 
+## 📸 Hình ảnh trong game
+
+<p align="center">
+  <img src="images/login.png" alt="Đăng nhập" width="600"><br>
+  <b>🔐 Đăng nhập</b>
+</p>
+
 <table>
   <tr>
-    <td align="center" colspan="2" rowspan="2" width="66%">
-      <img src="images/login.png" alt="Đăng nhập" width="100%"><br>
-      <b>🔐 Đăng nhập</b>
-    </td>
-    <td align="center" width="17%">
-      <img src="images/settings.png" alt="Cài đặt" width="150"><br>
+    <td align="center" width="33%">
+      <img src="images/settings.png" alt="Cài đặt" width="200"><br>
       <b>⚙️ Cài đặt</b>
     </td>
-    <td align="center" width="17%">
-      <img src="images/select-char.png" alt="Chọn nhân vật" width="150"><br>
+    <td align="center" width="33%">
+      <img src="images/select-char.png" alt="Chọn nhân vật" width="200"><br>
       <b>👤 Chọn nhân vật</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="images/upgrade-point.png" alt="Nâng cấp điểm" width="150"><br>
+    <td align="center" width="33%">
+      <img src="images/upgrade-point.png" alt="Nâng cấp điểm" width="200"><br>
       <b>📊 Nâng cấp điểm</b>
     </td>
-    <td align="center">
-      <img src="images/search.png" alt="Vào nhanh" width="150"><br>
-      <b>🔎 Vào nhanh</b>
-    </td>
   </tr>
   <tr>
+    <td align="center">
+      <img src="images/search.png" alt="Vào nhanh" width="200"><br>
+      <b>🔎 Vào nhanh</b>
+    </td>
     <td align="center">
       <img src="images/fight.png" alt="Chiến trường" width="200"><br>
       <b>⚔️ Chiến trường</b>
     </td>
-    <td align="center" colspan="3">
+    <td align="center">
       <img src="images/fight-auto-pem.png" alt="Tự động Pem" width="200"><br>
       <b>⚔️ Tự động Pem đến hết trận</b>
     </td>
