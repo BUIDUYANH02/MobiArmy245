@@ -76,6 +76,10 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
     <figcaption>⚔️ Chiến trường trong trận</figcaption>
     <img src="images/fight.png" alt="Hình ảnh chiến trường trong trận" width="800">
   </figure>
+  <figure>
+    <figcaption>⚔️ Chỉnh lực và Góc dễ dàng với bản update</figcaption>
+    <img src="images/fight-setting.png" alt="Hình ảnh chiến trường trong trận 2" width="800">
+  </figure>
 </p>
 
 ## 👨‍💻 Tác giả
