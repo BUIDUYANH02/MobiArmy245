@@ -54,7 +54,7 @@ Các bản phát hành sẽ được cập nhật tại mục [Releases](../../r
 <table>
   <tr>
     <td align="center">
-      <img src="images/login.png" alt="Đăng nhập" width="250">
+      <img src="images/login.png" alt="Đăng nhập" width="800">
       <br><b>🔐 Đăng nhập</b>
     </td>
     <td align="center">
