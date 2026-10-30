@@ -34,11 +34,11 @@
 
 ## 📦 Nền tảng hỗ trợ
 
-| Nền tảng | Định dạng | README |
+| Nền tảng | Định dạng |
 |---|---|---|
-| Android | APK | [README-APK.md](README-APK.md) |
-| iOS | IPA | [README-IOS.md](README-IOS.md) |
-| Windows PC | EXE | [README-PC.md](README-PC.md) |
+| Android | APK |
+| iOS | IPA |
+| Windows PC | EXE |
 
 Các bản phát hành được xây dựng từ cùng một project Unity. Khả năng sử dụng thực tế phụ thuộc vào cấu hình build và mức độ tương thích của từng nền tảng.
 
