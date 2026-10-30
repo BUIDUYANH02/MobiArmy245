@@ -38,7 +38,7 @@
 |---|---|---|
 | Android | APK | [Army245.apk](../../releases/download/Mobiarmy2/Army245.apk) |
 | iOS | IPA | [Army245.ipa](../../releases/download/Mobiarmy2/Army245.ipa) |
-| Windows PC | EXE | [Army245_PC.zip](../../releases/download/Mobiarmy2/Army245_PC.zip) |
+| Windows PC | EXE | [Army245.zip](../../releases/download/Mobiarmy2/Army245_PC.zip) |
 
 Các bản phát hành được xây dựng từ cùng một project Unity. Khả năng sử dụng thực tế phụ thuộc vào cấu hình build và mức độ tương thích của từng nền tảng.
 
