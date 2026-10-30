@@ -36,9 +36,9 @@
 
 | Nền tảng | Định dạng | Link |
 |---|---|---|
-| Android | APK | [Releases](../../releases) |
-| iOS | IPA | [Releases](../../releases) |
-| Windows PC | EXE | [Releases](../../releases) |
+| Android | APK | [Releases](../../releases/download/Mobiarmy2/Army245.apk) |
+| iOS | IPA | [Releases](../../releases/download/Mobiarmy2/Army245.ipa) |
+| Windows PC | EXE | [Releases](../../releases/download/Mobiarmy2/Army245_PC.zip) |
 
 Các bản phát hành được xây dựng từ cùng một project Unity. Khả năng sử dụng thực tế phụ thuộc vào cấu hình build và mức độ tương thích của từng nền tảng.
 
@@ -86,10 +86,7 @@ Các bản phát hành được xây dựng từ cùng một project Unity. Kh�
   </tr>
 </table>
 
-## 👨‍💻 Tác giả
-
-**Bùi Duy Anh**
-
+## 👨‍💻 Tác giả **Bùi Duy Anh**
 ## ⚠️ Lưu ý
 
 - Tính năng và khả năng tương thích có thể khác nhau tùy bản build.
