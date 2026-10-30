@@ -34,7 +34,7 @@
 
 ## 📥 Tải xuống
 
-| Nền tảng | Định dạng | Link |
+| Nền tảng | Định dạng | Link Tải |
 |---|---|---|
 | Android | APK | [Army245.apk](../../releases/download/Mobiarmy2/Army245.apk) |
 | iOS | IPA | [Army245.ipa](../../releases/download/Mobiarmy2/Army245.ipa) |
