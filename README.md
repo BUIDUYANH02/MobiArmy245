@@ -32,13 +32,13 @@
 - 🚫 **Không mã độc** – Không chủ động tích hợp mã độc gây hại cho thiết bị.
 - 🔍 **Minh bạch** – Công khai các tính năng và hành vi thu thập dữ liệu (nếu có).
 
-## 📦 Nền tảng hỗ trợ
+## 📥 Tải xuống
 
-| Nền tảng | Định dạng |
-|---|---|
-| Android | APK |
-| iOS | IPA |
-| Windows PC | EXE |
+| Nền tảng | Định dạng | Link |
+|---|---|---|
+| Android | APK | [Releases](../../releases) |
+| iOS | IPA | [Releases](../../releases) |
+| Windows PC | EXE | [Releases](../../releases) |
 
 Các bản phát hành được xây dựng từ cùng một project Unity. Khả năng sử dụng thực tế phụ thuộc vào cấu hình build và mức độ tương thích của từng nền tảng.
 
