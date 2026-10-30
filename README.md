@@ -48,10 +48,6 @@ Các bản phát hành được xây dựng từ cùng một project Unity. Kh�
 - **Ngôn ngữ:** C#
 - **Nền tảng build:** Android, iOS và Windows
 
-## 📥 Tải xuống
-
-Các bản phát hành sẽ được cập nhật tại mục [Releases](../../releases) của repository khi có phiên bản được công bố.
-
 ## 📸 Hình ảnh trong game
 
 <p align="center">
