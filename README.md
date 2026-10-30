@@ -10,16 +10,16 @@
 
 ## ✨ Tính năng
 
-- 🎯 Kẻ góc.
-- 💎 Auto đập ngọc.
-- ⚡ Cộng chỉ số nhanh.
-- 🚀 Tùy chỉnh tốc độ 100->2000%.
-- 👤 Fake tên nhân vật – Tùy chỉnh tên hiển thị.
-- 🚀 Cải thiện tốc độ game – Tối ưu hiệu năng trò chơi.
-- 🔧 Auto Tự Pem – Tự động bắn khi đến lượt (kèm Pow,HP 350, 50%, 100%, Đồng Đội khi có).
-- 🔧 Chỉnh Góc – Chỉnh góc Pem nhằm fix lỗi tốc độ game quá nhanh
-- 🎋 Auto đổi bánh chưng, bánh tét – Tự động đổi vật phẩm.
-- 🔧 Quản lý Tài Khoản – Thêm được nhiều tài khoản đổi 1 chạm không cần gõ lại.
+- ✨ Kẻ góc.
+- ✨ Auto đập ngọc.
+- ✨ Cộng chỉ số nhanh.
+- ✨ Tùy chỉnh tốc độ 100->2000%.
+- ✨ Fake tên nhân vật – Tùy chỉnh tên hiển thị.
+- ✨ Cải thiện tốc độ game – Tối ưu hiệu năng trò chơi.
+- ✨ Auto Tự Pem – Tự động bắn khi đến lượt (kèm Pow,HP 350, 50%, 100%, Đồng Đội khi có).
+- ✨ Chỉnh Góc – Chỉnh góc Pem nhằm fix lỗi tốc độ game quá nhanh
+- ✨ Auto đổi bánh chưng, bánh tét – Tự động đổi vật phẩm.
+- ✨ Quản lý Tài Khoản – Thêm được nhiều tài khoản đổi 1 chạm không cần gõ lại.
 
 ## 🔥 PB Update
 - 🔧 **Chỉnh Góc** – Fix lỗi chỉnh góc theo hướng nhân vật nhìn
