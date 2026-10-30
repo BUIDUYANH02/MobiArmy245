@@ -35,7 +35,7 @@
 ## 📦 Nền tảng hỗ trợ
 
 | Nền tảng | Định dạng |
-|---|---|---|
+|---|---|
 | Android | APK |
 | iOS | IPA |
 | Windows PC | EXE |
