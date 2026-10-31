@@ -22,8 +22,8 @@
 - ✨ **Quản lý Tài Khoản** – Thêm được nhiều tài khoản đổi 1 chạm không cần gõ lại.
 
 ## 🔥 PB Update
-- 🔧 **Chỉnh Góc** – Fix lỗi chỉnh góc theo hướng nhân vật nhìn
-- 🔧 **Quản lý Tài Khoản** – Sửa lỗi xoá tài khoản không mất
+- 🔧 **Tối ưu hoá TextBox** – Tối ưu trải nghiệm người chơi...
+- 🔧 **Fix Item vào trận** – Sửa lỗi mất item mang theo khi vào phong mới...
 
 ## 🔒 Cam kết bảo mật
 
