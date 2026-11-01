@@ -15,7 +15,6 @@
 - ✨ **Cộng chỉ số nhanh.**
 - ✨ **Tùy chỉnh tốc độ** 100->2000%.
 - ✨ **Fake tên nhân vật** – Tùy chỉnh tên hiển thị.
-- ✨ **Cải thiện tốc độ game** – Tối ưu hiệu năng trò chơi.
 - ✨ **Auto Tự Pem** – Tự động bắn khi đến lượt (kèm Pow,HP 350, 50%, 100%, Đồng Đội khi có).
 - ✨ **Chỉnh Góc** – Chỉnh góc Pem nhằm fix lỗi tốc độ game quá nhanh
 - ✨ **Auto đổi bánh chưng, bánh tét** – Tự động đổi vật phẩm.
@@ -27,6 +26,7 @@
 - 🔥 **Phá Bom Mù** – Dính bom mù giờ đây vẫn có thể nhìn được đối thủ...
 
 ## 🔧 PB Tối Ưu hoá
+- 🔧 **Cải thiện tốc độ game** – Tối ưu hiệu năng trò chơi.
 - 🔧 **TextBox** – Tối ưu trải nghiệm người chơi...
 - 🔧 **Item vào trận** – Sửa lỗi mất item mang theo khi vào phong mới...
 
