@@ -20,10 +20,12 @@
 - ✨ **Auto đổi bánh chưng, bánh tét** – Tự động đổi vật phẩm.
 - ✨ **Quản lý Tài Khoản** – Thêm được nhiều tài khoản đổi 1 chạm không cần gõ lại.
 - ✨ **Phá Bom Mù** – Dính bom mù giờ đây vẫn có thể nhìn được đối thủ.
+- ✨ **Vẽ Lực max** - (Lưu trạng thái) bật/tắt Vẽ lực max trên màn hình
+- ✨ **Sử dụng Item ngoài màn hình** – Tối ưu trải nghiệm người chơi...
 
 ## 🔥 Update
-- 🔥 **Lưu trạng thái vẽ lực max** – Tối ưu trải nghiệm người chơi...
-- 🔥 **Sử dụng Item ngoài màn hình** – Tối ưu trải nghiệm người chơi...
+- 🔥 **Giao diện Thông tin nhân vật** - Update giao diện
+- 🔥 **Giao diện Thông tin đội** - Update giao diện
 
 ## 🔧 Tối Ưu hoá
 - **Không có gì thêm**
